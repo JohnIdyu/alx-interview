@@ -8,10 +8,9 @@
 
 Create a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal’s triangle of n:
 
-    	- Returns an empty list if ` n <= 0 `
+    - Returns an empty list if ` n <= 0 `
 
-    	- You can assume ` n ` will be always an integer
-
+    - You can assume ` n ` will be always an integer
 
     ```
     guillaume@ubuntu:~/0x00$ cat 0-main.py
@@ -41,5 +40,5 @@ Create a function `def pascal_triangle(n):` that returns a list of lists of inte
     [1,4,6,4,1]
     guillaume@ubuntu:~/0x00$
 ```
-## **Solution** - [0-pascal_triangle.py](https://github.com/JohnIdyu/alx-interview/blob/master/0x00-pascal_triangle/0-pascal_triangle.py) 
+   Solution - [0-pascal_triangle.py](https://github.com/JohnIdyu/alx-interview/blob/master/0x00-pascal_triangle/0-pascal_triangle.py) 
 
