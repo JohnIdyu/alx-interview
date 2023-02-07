@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-'''The minimum operations coding challenge.
+'''The minimum operations coding challenge
 '''
 
 
 def minOperations(n):
     '''Computes the fewest number of operations needed to result
-    in exactly n H characters.
+    in exactly n H characters
     '''
     if not isinstance(n, int):
         return 0
